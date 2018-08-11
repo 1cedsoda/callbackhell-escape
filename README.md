@@ -26,3 +26,9 @@ console.log("not synchronized")
 b.wait()
 console.log("synchronized")
 ```
+
+The Blocker can be (re)activated afterwards:
+```javascript
+b.block()
+```
+So you can use one blocker to execute multiple asynchronous functions in a single synchronous codeflow.
