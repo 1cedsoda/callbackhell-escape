@@ -1,6 +1,6 @@
 {
   "name": "escape-the-cbh",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The easyest way to escape the callback-hell. I promise you.",
   "main": "main.js",
   "repository": {
