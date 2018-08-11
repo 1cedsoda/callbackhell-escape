@@ -1,0 +1,23 @@
+{
+  "name": "escape-the-cbh",
+  "version": "1.0.0",
+  "description": "The easyest way to escape the callback-hell. I promise you.",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phyyyl/escape-the-cbh.git"
+  },
+  "keywords": [
+    "synchonous",
+    "callback-hell"
+  ],
+  "author": "phyyyl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phyyyl/escape-the-cbh/issues"
+  },
+  "homepage": "https://github.com/phyyyl/escape-the-cbh#readme",
+  "dependencies": {
+    "wait-for-stuff": "^1.4.0"
+  }
+}
